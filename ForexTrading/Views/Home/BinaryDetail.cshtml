@@ -1,0 +1,31 @@
+﻿@model ForexTrading.Models.Binary
+
+@{
+    ViewBag.Title = Model.SiteText + " Bonus/Profits";
+
+    string typeofBonus = Model.BonusType;
+    string result = "";
+    if (typeofBonus == "%")
+    {
+        result = @Model.BonusValue + "%";
+    }
+    else
+    {
+        result = "$" + @Model.BonusValue;
+    }
+}
+
+<div class="detailContentWrap">
+    <div style="margin-left: 110px;">
+        @Html.Raw(Model.PreviewImg)
+    </div>
+    <p>@Model.Details</p>
+    <p>Bonus/Profit value goes up to @result!</p>
+
+    <span>
+        <a href="@Model.ClaimNowURL" class="claimNow" target="_blank">Claim Now!</a>
+    </span>
+    <span>
+        @Html.ActionLink("Back", "Index", "Home")
+    </span>
+</div>

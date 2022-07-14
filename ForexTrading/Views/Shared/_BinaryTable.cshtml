@@ -1,0 +1,60 @@
+﻿<table class="bonuses">
+    <thead>
+        <tr>
+            <th>USA
+            </th>
+            <th>Site Preview
+            </th>
+            <th>Sites
+            </th>
+            <th>Bonuses / Profits
+            </th>
+            <th>Claim Now
+            </th>
+            <th>More Info
+            </th>
+        </tr>
+    </thead>
+
+    @foreach (var item in Model.Binary)
+    {
+        string row = "even";
+        if ((item.RowID) % 2 == 1)
+        {
+            row = "odd";
+        }
+        <tr class="@row">
+            <td>
+                <img src="@item.Icon" width="24" height="24" alt="@item.IconAlt" />
+            </td>
+            <td>
+                <img src="@item.PreviewIcon" width="60" height="30" alt="@item.PreviewAlt" />
+            </td>
+            <td>
+                <a href="@item.SiteURL" target="_blank">@item.SiteText</a>
+            </td>
+            <td>
+                @{
+                    string typeofBonus = item.BonusType;
+                    string result = "";
+                    if (typeofBonus == "%")
+                    {
+                        result = @item.BonusValue + "%";
+                    }
+                    else
+                    {
+                        result = "$" + @item.BonusValue;
+                    }
+                }
+                @result
+            </td>
+            <td>
+                <a href="@item.ClaimNowURL" class="button" target="_blank">Claim Now!</a>
+            </td>
+            <td>
+                @Html.ActionLink("More Info", "BinaryDetail", new { id = item.Id }, new { @class = "button2" })
+            </td>
+
+        </tr>
+    }
+</table>

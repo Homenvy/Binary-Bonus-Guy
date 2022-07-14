@@ -1,0 +1,23 @@
+﻿@model ForexTrading.ModelView.BonusModelsVM
+
+@{
+    ViewBag.Title = "Bonuses";
+}
+
+@Scripts.Render("~/Scripts/tabContent.js")
+
+<div class="renderSectionWrapper">
+    <ul class="tabs">
+        <li><a href="#" rel="view6">Binary Bonuses</a></li>
+        <li><a href="#" rel="view7">Forex Bonuses</a></li>
+    </ul>
+    <div class="tabcontents">
+        <div id="view6" class="tabcontent">
+            @Html.Partial("_BinaryTable")
+            
+        </div>
+        <div id="view7" class="tabcontent">
+            @Html.Partial("_ForexTable")
+        </div>
+    </div>
+</div>

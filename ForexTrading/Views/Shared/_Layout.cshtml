@@ -1,0 +1,141 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title - Binary Bonus Guy</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="http://www.jacklmoore.com/colorbox/example1/colorbox.css" />
+    <link href="~/Forex.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content="A site with bonuses listed for Binary Options and Forex. Come check out what bonuses you could get while investing!" />@*Needs a website description*@
+    <meta name="keywords" content="Forex, Forex Bonuses, Forex Trading Bonuses, Forex Trading, Binary, Binary Bonuses, Binary Option Bonuses,
+        Binary Options, Binary Investing, Binary Info, Forex Info, Binary Investor, Forex Investor" />@*Needs some keywords associated with the site*@
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <header>
+        <div class="content-wrapper">
+            <div class="site-title">
+                <img src="~/Images/Logo.png" style="position: absolute;" alt="BBGLogo" />
+                <div id="siteLogo">
+                    @Html.ActionLink("Binary Bonus Guy", "Index", "Home")
+                </div>
+                <div id="bbgSlogan">
+                    Bringing the best bonuses in one place! 
+                </div>
+                <img src="~/Images/BBGBanner.png" id="bannerPos" />
+            </div>
+            <nav>
+                <ul id="menu">
+                    <li>@Html.ActionLink("Bonuses", "Index", "Home")</li>
+                    |
+                    <li>@Html.ActionLink("Cross Rates", "CrossRate", "Home")</li>
+                    |
+                    <li>@Html.ActionLink("Binary Information", "BinaryOption", "Home")</li>
+                    |
+                    <li>@Html.ActionLink("Forex Information", "ForexTrading", "Home")</li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div id="body">
+        <!-- anything in this next section is a render per link-->
+        <div class="contentWhole">
+            <div class="contentBoxHeader">What are Binary Options and Forex Trading?</div>
+            <div class="float-left">
+                <div class="contentHalfInternal">
+                    <h4>Binary Options</h4>
+                    <p>
+                        <b>Definition:</b> A Binary Option involves the prediction if the price of an asset will increase
+                         or decrease over a period of time, which is set by the investor. The asset could be a
+                         currency pair or even a stock. The period of time is usually defined by the investor
+                         (you).
+                    </p>
+
+                    <p>
+                        <b>Example:</b> The current price of USD/AUD is .93557. The investor would determine if the
+                         value will rise (call) or fall (put). If the investor is correct on the prediction, a profit
+                         is granted (The average profit is usually around 80%). This means if 500 USD was
+                         invested into this specific Binary Option, the investor would get 900 USD back; a profit
+                         of 400 USD. If the investor is incorrect, then a loss occurs. This could be the whole 500 USD
+                         but some have a 15% return.
+                    </p>
+
+                    <p>If you would like to go into more depth, just click @Html.ActionLink("Binary Option", "BinaryOption", "Home")</p>
+                </div>
+            </div>
+            <div class="float-right">
+                <div class="contentHalfInternal">
+                    <h4>Forex Trading</h4>
+                    <p>
+                        <b>Definition:</b> While Forex Trading the investor determines if the value of one currency will
+                         increase or decrease compared to the value of another currency. This is to try to make a profit.
+                         There is no call or put options and the investor does not set a time in which to see if he/she is correct
+                         or incorrect.
+                    </p>
+
+                    <p>
+                        <b>Example:</b> The value of USD/AUD is .93557 and the investor has an idea that the value will
+                         increase in the future. One lot of USD/AUD is purchased and the investor waits for the price
+                         to increase to a value that satisfies him/her. Once the value is at a decent profit, the investor
+                         closes the trade and gets the profit. This also goes the other way. If the value decreases the
+                         investor runs the risk of losing all the money in the trading account. Of course this could be 
+                         avoided by closing before that happens with the investor's broker.
+                    </p>
+
+                    <p>If you would like to go into more depth, just click @Html.ActionLink("Forex", "ForexTrading", "Home")</p>
+                </div>
+            </div>
+        </div>
+        <div class="float-left">
+@*            <div class="renderSection">
+            </div>*@
+            <div id="renderSection">
+                <div class="contentBoxHeader">
+                    <div style="display: inline; margin-bottom: 10px;" class="title">
+                        <h1>@ViewBag.Title</h1>
+                    </div>
+                </div>
+                <section class="content-wrapper main-content clear-fix" id="renderSectionInternal">
+                    @RenderBody()
+                </section>
+            </div>
+        </div>
+        <div class="float-right">
+            <div class="contentBox">
+                <div class="contentBoxHeader">Current Market</div>
+                <div class="contentBoxInternal">
+                    @Html.Partial("About")
+                </div>
+            </div>
+            <div class="contentBox">
+                <div class="contentBoxHeader">World Interest Rates</div>
+                <div class="contentBoxInternal">
+                    @Html.Partial("Contact")
+                </div>
+            </div>
+            @*<div class="contentBox">
+                <div class="contentBoxHeader">Listbox 3</div>
+                <div class="contentBoxInternal">
+                </div>
+            </div>*@
+        </div>
+        
+    </div>
+    <footer>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p>&copy; @DateTime.Now.Year - Binary Bonus Guy - All Rights Reserved.</p>
+                <p>Made by: <a href="mailto:homenvy@gmail.com">Michael Ess-Haghabodi</a></p>
+            </div>
+        </div>
+    </footer>
+    @Scripts.Render("~/bundles/jquery")
+
+</body>
+<script src="~/Scripts/jquery.min.js"></script>
+<script src="~/Scripts/jquery.colorbox.js"></script>
+<script src="~/Scripts/CookiePopup.js"></script>
+</html>

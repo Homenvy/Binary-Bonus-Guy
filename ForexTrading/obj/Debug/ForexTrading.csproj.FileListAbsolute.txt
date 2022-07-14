@@ -1,0 +1,330 @@
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\ForexTrading.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\ForexTrading.pdb
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\Antlr3.Runtime.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\DotNetOpenAuth.AspNet.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\DotNetOpenAuth.Core.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OAuth.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OpenId.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\EntityFramework.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\Microsoft.Data.Edm.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\Microsoft.Data.OData.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\Newtonsoft.Json.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Net.Http.Formatting.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Spatial.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.Helpers.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.Http.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.Http.OData.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.Http.WebHost.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.Mvc.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.Optimization.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.Razor.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.WebPages.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.WebPages.Razor.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\WebGrease.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\WebMatrix.Data.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\WebMatrix.WebData.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\EntityFramework.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\Newtonsoft.Json.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Net.Http.Formatting.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.Helpers.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.Http.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.Http.WebHost.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.Mvc.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.Razor.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.WebPages.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.WebPages.Razor.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\WebMatrix.Data.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\WebMatrix.WebData.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\DotNetOpenAuth.AspNet.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\DotNetOpenAuth.Core.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OAuth.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OpenId.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Web.Http.OData.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\Microsoft.Data.Edm.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\Microsoft.Data.OData.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\System.Spatial.xml
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\de\Microsoft.Data.OData.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\es\Microsoft.Data.OData.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\it\Microsoft.Data.OData.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\de\System.Spatial.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\es\System.Spatial.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\fr\System.Spatial.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\it\System.Spatial.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\ja\System.Spatial.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\ko\System.Spatial.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\ru\System.Spatial.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\zh-Hans\System.Spatial.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\bin\zh-Hant\System.Spatial.resources.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\obj\Debug\ForexTrading.csprojResolveAssemblyReference.cache
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\obj\Debug\ForexTrading.dll
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\obj\Debug\ForexTrading.pdb
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\obj\Debug\ForexTrading.Migrations.RowUpdates050714.resources
+C:\Dev\Websites\Tim's Website\ForexTrading\ForexTrading\obj\Debug\ForexTrading.csproj.GenerateResource.Cache
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ForexTrading.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ForexTrading.pdb
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Antlr3.Runtime.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.AspNet.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.Core.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OAuth.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OpenId.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\EntityFramework.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Data.Edm.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Data.OData.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Newtonsoft.Json.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Spatial.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Helpers.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Http.OData.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Mvc.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Optimization.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Razor.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.WebPages.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.WebPages.Razor.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\WebGrease.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\WebMatrix.Data.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\WebMatrix.WebData.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\EntityFramework.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Newtonsoft.Json.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Helpers.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Mvc.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Razor.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.WebPages.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.WebPages.Razor.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\WebMatrix.Data.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\WebMatrix.WebData.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.AspNet.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.Core.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OAuth.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OpenId.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Http.OData.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Data.Edm.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Data.OData.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Spatial.xml
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\de\Microsoft.Data.OData.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\es\Microsoft.Data.OData.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\it\Microsoft.Data.OData.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\de\System.Spatial.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\es\System.Spatial.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\fr\System.Spatial.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\it\System.Spatial.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ja\System.Spatial.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ko\System.Spatial.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ru\System.Spatial.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\zh-Hans\System.Spatial.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\zh-Hant\System.Spatial.resources.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\obj\Debug\ForexTrading.csprojResolveAssemblyReference.cache
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\obj\Debug\ForexTrading.Migrations.RowUpdates050714.resources
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\obj\Debug\ForexTrading.csproj.GenerateResource.Cache
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\obj\Debug\ForexTrading.dll
+C:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\obj\Debug\ForexTrading.pdb
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ForexTrading.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ForexTrading.pdb
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Antlr3.Runtime.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.AspNet.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.Core.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OAuth.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OpenId.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\EntityFramework.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Data.Edm.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Data.OData.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Web.Infrastructure.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Newtonsoft.Json.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Spatial.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Helpers.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Http.OData.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Mvc.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Optimization.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Razor.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.WebPages.Deployment.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.WebPages.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.WebPages.Razor.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\WebGrease.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\WebMatrix.Data.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\WebMatrix.WebData.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\EntityFramework.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Newtonsoft.Json.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Helpers.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Mvc.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Razor.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.WebPages.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.WebPages.Deployment.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.WebPages.Razor.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\WebMatrix.Data.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\WebMatrix.WebData.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.AspNet.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.Core.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OAuth.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OpenId.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Http.OData.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Data.Edm.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Data.OData.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Spatial.xml
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\de\Microsoft.Data.OData.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\es\Microsoft.Data.OData.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\it\Microsoft.Data.OData.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\de\System.Spatial.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\es\System.Spatial.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\fr\System.Spatial.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\it\System.Spatial.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ja\System.Spatial.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ko\System.Spatial.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ru\System.Spatial.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\zh-Hans\System.Spatial.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\zh-Hant\System.Spatial.resources.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\obj\Debug\ForexTrading.csprojResolveAssemblyReference.cache
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\obj\Debug\ForexTrading.Migrations.RowUpdates050714.resources
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\obj\Debug\ForexTrading.csproj.GenerateResource.Cache
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\obj\Debug\ForexTrading.dll
+D:\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\obj\Debug\ForexTrading.pdb
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ForexTrading.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ForexTrading.pdb
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Antlr3.Runtime.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.AspNet.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.Core.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OAuth.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OpenId.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\EntityFramework.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Data.Edm.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Data.OData.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Web.Infrastructure.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Newtonsoft.Json.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Spatial.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Helpers.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Http.OData.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Mvc.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Optimization.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Razor.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.WebPages.Deployment.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.WebPages.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.WebPages.Razor.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\WebGrease.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\WebMatrix.Data.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\WebMatrix.WebData.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\EntityFramework.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Newtonsoft.Json.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Helpers.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Mvc.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Razor.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.WebPages.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.WebPages.Deployment.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.WebPages.Razor.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\WebMatrix.Data.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\WebMatrix.WebData.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.AspNet.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.Core.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OAuth.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OpenId.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Web.Http.OData.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Data.Edm.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\Microsoft.Data.OData.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\System.Spatial.xml
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\de\Microsoft.Data.OData.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\es\Microsoft.Data.OData.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\it\Microsoft.Data.OData.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\de\System.Spatial.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\es\System.Spatial.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\fr\System.Spatial.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\it\System.Spatial.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ja\System.Spatial.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ko\System.Spatial.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\ru\System.Spatial.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\zh-Hans\System.Spatial.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\bin\zh-Hant\System.Spatial.resources.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\obj\Debug\ForexTrading.csprojResolveAssemblyReference.cache
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\obj\Debug\ForexTrading.Migrations.RowUpdates050714.resources
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\obj\Debug\ForexTrading.csproj.GenerateResource.Cache
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\obj\Debug\ForexTrading.dll
+E:\Dev\DEV 2020\Dev\Websites\Tim's Website Copies\ForexTrading\ForexTrading\obj\Debug\ForexTrading.pdb

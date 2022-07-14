@@ -1,0 +1,17 @@
+﻿@Styles.Render("~/Content/themes/Newsletter.css")
+
+@*the popup information*@
+<script type="text/javascript" src="http://forms.aweber.com/form/08/2130230608.js"></script>
+
+@{
+    ViewBag.Title = "Newsletter";
+    Layout = null;
+
+}
+    @Scripts.Render("~/Scripts/jquery.min.js")
+    @Scripts.Render("~/Scripts/jquery.colorbox.js")
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

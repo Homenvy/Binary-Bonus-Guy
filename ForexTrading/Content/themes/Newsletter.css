@@ -1,0 +1,39 @@
+﻿body {
+    text-align: center;
+}
+
+legend {
+    font-size: 18pt;
+    border: 2px solid #BBB;
+}
+
+.invalids {
+    color: red;
+}
+/*-----------------------------------------inputs (buttons, text fields, etc)------------------------------------------*/
+input[type="submit"] {
+    font-size: 10pt;
+    color: #fff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid #000;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    box-shadow: 2px 2px 1px #000;
+    background-image: -webkit-linear-gradient(top, #7ac0da 0%, #0000ff 100%);
+}
+
+    input[type="submit"]:hover {
+        box-shadow: none;
+        margin-left: 4px;
+        background-image: -webkit-linear-gradient(top, #ffff00 0%, #ff6600 100%);
+        color: red;
+    }
+
+    input[type="submit"]:disabled {
+        margin-left: 4px;
+        background-image: -webkit-linear-gradient(top, #FFF 0%, #333 100%);
+        color: #000;
+    }
